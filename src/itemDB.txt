@@ -1,0 +1,12 @@
+itemID:1
+itemName:LahoriKulfi
+itemCost:2.0
+itemStock:99
+itemID:2
+itemName:Magnum
+itemCost:3.5
+itemStock:100
+itemID:3
+itemName:Cornetto
+itemCost:2.5
+itemStock:100
